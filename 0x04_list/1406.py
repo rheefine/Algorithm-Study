@@ -1,3 +1,5 @@
+# 268ms
+
 import sys
 from collections import deque
 
